@@ -1,0 +1,3 @@
+B1.txt	A1.txt
+B2.txt	A1.txt
+B3.txt	A1.txt
